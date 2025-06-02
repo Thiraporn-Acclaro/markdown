@@ -41,7 +41,7 @@ Datadog インターフェイス
 creds
 ```
 
-**[\[Infrastructure (インフラストラクチャ)] > \[Containers (コンテナ)]](https://app.datadoghq.com/containers)** に移動し、稼働中のコンテナを確認します。ページにデータが反映されるまでに、数分かかることがあります。Datadog にデータが取得され始めると、下のスクリーンショットのような画面が表示されます。
+**[\[Infrastructure (インフラストラクチャ)\] > \[Kubernetes Overview (Kubernetes の概要)\]]** に移動し、稼働中のコンテナを確認します。ページにデータが反映されるまでに、数分かかることがあります。Datadog にデータが取得され始めると、下のスクリーンショットのような画面が表示されます。
 
 ![\[Live Containers (ライブコンテナ)] ページのスクリーンショット](../assets/live_containers.png)
 
