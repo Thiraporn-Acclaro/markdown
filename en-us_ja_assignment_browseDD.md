@@ -47,7 +47,7 @@ creds
 
 **\[Containers (コンテナ)\]** ページでは、Kubernetes クラスター内で稼働しているコンテナに関するすべての情報を 1 か所で確認できます。クラスター内のすべての Deployment を名前空間ごとにグループ化して表示するには、次の操作を行ってください。
 
-1. グローバルナビゲーションで、**[\[Infrastructure (インフラストラクチャ)\] > \[Kubernetes Overview (Kubernetes の概要)\]](https://app.datadoghq.com/kubernetes)**をクリックします。
+1. グローバルナビゲーションで、 **[\[Infrastructure (インフラストラクチャ)\] > \[Kubernetes Overview (Kubernetes の概要)\]](https://app.datadoghq.com/kubernetes)** をクリックします。
 
 1. \[**DEPLOYMENTS (Deployment)**\] リソースをクリックします。
 
